@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_info">هذا البرنامج لاتمام عملية الشحن السريع كل ماعليك عمله لاتمام عملية الشحن هو \n
+  كتابة ** ثم رقم كرت الشحن فى لوحة الاتصال \n
+او كتابة رقم كرت الشحن هنا 
+ فسيقوم البرنامج بتحويل الرقم على حسب الشبكة الحالية واتمام عملية الشحن \n
+وهو حاليا سعمل لشبكات المحمول فى مصر والسعودية  \n
+وبلنسبة للسعودين يمكن ادخال رقم الهوية مرة واحدة ليتم الشحن بيه بصفة مستمرة
+\n
+خطوات استعمال البرنامج :
+تشغيل البرنامج بعد التنزيل مرة واحدة على الاقل 
+وبلنسبة للسعوديين يتم كتابة رقم الهوية 
+وبعد ذلك لاتمام عملية الشحن من لوحة الاتصال يتم كتابة 
+** ثم رقم كارت الشحن</string>
+    <string name="app_name">الشاحن</string>
+    <string name="idnumberlabel">رقم الهوية :</string>
+    <string name="btnlabel">حفظ</string>
+<string name="yeslabel">نعم</string>
+    <string name="nolabel">لا</string>
+    <string name="takecontacts">سوف يتم اخذ نسخة من ارقام التلفون لديك لكى تستطيع استخدام البرنامج هل توافق ؟</string>
+    <string name="rechargelabel">شحن</string>
+<string name="cardnumberlabel">رقم كارت الشحن</string>
+<string name="Rate">  قيم </string>
+    <string name="reminderme">ذكرنى لاحقا </string>
+    <string name="nothanks">لا شكرا</string>
+    <string name="PROMpet_message1">اذا استفدت من استخدام برنامج </string>
+    <string name="PROMpet_message2">, برجاء قيم البرنامج . ملحوظة هو برنامج مجانى موجه للمستخدم العربى..  شكرا على الدعم</string>
+
+</resources>
